@@ -8,9 +8,9 @@ This repository contains data of the tokenization system described in the paper 
 In addition to the tokenization tool, we provide a gold-standard dataset in the [data folder](https://github.com/sinaahmadi/KurdishTokenization/tree/master/data) containing 100 Sorani and Kurmanji sentences in the [Text Corpus Format](https://weblicht.sfs.uni-tuebingen.de/webservices/Helmut-Schmid-Text-Corpus-Format.pdf). These sentences are manually tokenized and therefore can be used for evaluation purposes.
 
 ### Annotated Lexicons
-We also provide a set of manually-annotated lexicons for this tool which are constantly being updated and completed. These lexicons contain word lemmata in Kurdish along with hyphen-separated multi-word expressions. The current version contain lexicographic data provided by the [FreeDict project](https://freedict.org/) and [Wîkîferheng, the Kurdish Wiktionary](https://ku.wiktionary.org/). The transliteration of the Latin-based script of Kurdish into the Latin-based on is carried out using [Wergor](https://github.com/sinaahmadi/wergor). Please follow the instructions of the [Kurdish Language Processing Toolkit (KLPT)](https://github.com/sinaahmadi/klpt), if you would like to take part in the enrichment of resources.
+We also provide a set of manually-annotated lexicons for this tool which are constantly being updated and completed. These lexicons contain word lemmata in Kurdish along with hyphen-separated multi-word expressions. The current version contains lexicographic data provided by the [FreeDict project](https://freedict.org/) and [Wîkîferheng, the Kurdish Wiktionary](https://ku.wiktionary.org/). The transliteration of the Latin-based script of Kurdish into the Latin-based one is carried out using [Wergor](https://github.com/sinaahmadi/wergor). Please follow the instructions of the [Kurdish Language Processing Toolkit (KLPT)](https://github.com/sinaahmadi/klpt), if you would like to take part in the enrichment of resources.
 
-The following shows two lemmata in the Kurmanji lexicon where the possible writing of a compound word-forms are provided in the `token_forms` field.
+The following shows two lemmata in the Kurmanji lexicon where the possible writings of a compound word-form are provided in the `token_forms` field.
 
 	"riswa": []
 	"riswa-kirin": {
