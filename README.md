@@ -20,6 +20,9 @@ The following shows two lemmata in the Kurmanji lexicon where the possible writi
 ### For researchers
 If you would like to extend the current study, the trained models can be found in the [models](https://github.com/sinaahmadi/KurdishTokenization/tree/master/models) directory. Please use the corresponding libraries to import the models in your pipelines. The output of the models are also available in the [experiments](https://github.com/sinaahmadi/KurdishTokenization/tree/master/experiments) folder. 
 
+### Contribute
+Are you interested in this project? Please follow the instructions of the [Kurdish Language Processing Toolkit (KLPT)](https://github.com/sinaahmadi/klpt) to get involved. Open-source is fun! 😊
+
 ### Cite this paper
 
 Please consider citing [this paper](https://sinaahmadi.github.io/docs/articles/ahmadi2020tokenization.pdf), if you use any part of the data or the tool ([`bib` file](https://sinaahmadi.github.io/bibliography/ahmadi2020tokenization.txt)):
